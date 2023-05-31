@@ -248,7 +248,7 @@ async def start_comm(client, message: Message, _):
                 ],
                 [
                     InlineKeyboardButton(
-                        text=" ❰ 𝗥𝗲𝗽𝗼 ❱ ", url=f", url=f"https://telegra.ph/file/a44a7da442f032a465ba9.mp4"),
+                        text=" ❰ 𝗥𝗲𝗽𝗼 ❱ ", url=f", url=f"https://telegra.ph/file/a44a7da442f032a465ba9.mp4")
                 ]
            ]
         ),
