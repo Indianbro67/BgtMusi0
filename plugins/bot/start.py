@@ -165,7 +165,7 @@ async def start_comm(client, message: Message, _):
                         InlineKeyboardButton(
                             text="🔄 Close", callback_data="close"
                         ),
-                    ],
+                    ]
                 ]
             )
             await m.delete()
@@ -214,10 +214,6 @@ async def start_comm(client, message: Message, _):
                 [
                     InlineKeyboardButton(
                         text="⚙ ❰ 𝐎𝐩𝐞𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐌𝐞𝐧𝐮 ❱ ⚙", callback_data="settings_back_helper")
-                ],
-                [
-                    InlineKeyboardButton(
-                        text=" ❰ 𝗥𝗲𝗽𝗼 ❱ ", url=f", url=f"https://telegra.ph/file/a44a7da442f032a465ba9.mp4"),
                 ]
            ]
         ),
@@ -272,10 +268,6 @@ async def start_comm(client, message: Message, _):
                 [
                     InlineKeyboardButton(
                         text="⚙ ❰ 𝐎𝐩𝐞𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐌𝐞𝐧𝐮 ❱ ⚙", callback_data="settings_back_helper")
-                ],
-                                [
-                    InlineKeyboardButton(
-                        text=" ❰ 𝗥𝗲𝗽𝗼 ❱ ", url=f", url=f"https://telegra.ph/file/a44a7da442f032a465ba9.mp4"),
                 ]
            ]
         ),
