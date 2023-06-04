@@ -165,7 +165,7 @@ async def start_comm(client, message: Message, _):
                         InlineKeyboardButton(
                             text="🔄 Close", callback_data="close"
                         ),
-                    ]
+                    ],
                 ]
             )
             await m.delete()
