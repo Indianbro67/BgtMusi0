@@ -193,13 +193,13 @@ async def start_comm(client, message: Message, _):
         if config.START_IMG_URL:
             try:
                 await message.reply_photo(
-        photo=f"https://telegra.ph/file/4d4f337cfea91640b5f07.jpg",
+        photo=f"https://telegra.ph/file/084b618848b58cd10c7b5.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐂𝐡𝐚𝐭𓂸 : [𝐆𝐫𝐨𝐮𝐩](https://t.me/+FQQYOR77arQ1Njc1)
+┣★ 𝐂𝐡𝐚𝐭𓂸 : [𝐆𝐫𝐨𝐮𝐩](https://t.me/FRIENDS_CHATTING_ROOM)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -220,13 +220,13 @@ async def start_comm(client, message: Message, _):
                   )
             except:
                 await message.reply_photo(
-        photo=f"https://telegra.ph/file/4d4f337cfea91640b5f07.jpg",
+        photo=f"https://telegra.ph/file/084b618848b58cd10c7b5.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐂𝐡𝐚𝐭𓂸 : [𝐆𝐫𝐨𝐮𝐩](https://t.me/+FQQYOR77arQ1Njc1)
+┣★ 𝐂𝐡𝐚𝐭𓂸 : [𝐆𝐫𝐨𝐮𝐩](https://t.me/FRIENDS_CHATTING_ROOM)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -247,13 +247,13 @@ async def start_comm(client, message: Message, _):
               )
         else:
             await message.reply_photo(
-        photo=f"https://telegra.ph/file/4d4f337cfea91640b5f07.jpg",
+        photo=f"https://telegra.ph/file/084b618848b58cd10c7b5.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐂𝐡𝐚𝐭𓂸 : [𝐆𝐫𝐨𝐮𝐩](https://t.me/+FQQYOR77arQ1Njc1)
+┣★ 𝐂𝐡𝐚𝐭𓂸 : [𝐆𝐫𝐨𝐮𝐩](https://t.me/FRIENDS_CHATTING_ROOM)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
