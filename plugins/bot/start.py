@@ -216,7 +216,7 @@ async def start_comm(client, message: Message, _):
                 ],
 [
 InlineKeyboardButton(
-                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM")],
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=f"https://t.me/public_groups_link")],
                 [
                     InlineKeyboardButton(
                         text="⚙ ❰ 𝐎𝐩𝐞𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐌𝐞𝐧𝐮 ❱ ⚙", callback_data="settings_back_helper")
@@ -249,7 +249,7 @@ InlineKeyboardButton(
                 ],
 [
 InlineKeyboardButton(
-                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM")],
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=f"https://t.me/public_groups_link")],
                 [
                     InlineKeyboardButton(
                         text="⚙ ❰ 𝐎𝐩𝐞𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐌𝐞𝐧𝐮 ❱ ⚙", callback_data="settings_back_helper")
@@ -282,7 +282,7 @@ InlineKeyboardButton(
                 ],
 [
 InlineKeyboardButton(
-                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM")],
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=f"https://t.me/public_groups_link")],
                 [
                     InlineKeyboardButton(
                         text="⚙ ❰ 𝐎𝐩𝐞𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐌𝐞𝐧𝐮 ❱ ⚙", callback_data="settings_back_helper")
