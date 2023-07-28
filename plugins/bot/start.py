@@ -210,7 +210,13 @@ async def start_comm(client, message: Message, _):
                 [
                     InlineKeyboardButton(
                         "➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕", url=f"https://t.me/{app.username}?startgroup=true"),
+                ],[
+                    InlineKeyboardButton(
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM"),
                 ],
+[
+InlineKeyboardButton(
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM")],
                 [
                     InlineKeyboardButton(
                         text="⚙ ❰ 𝐎𝐩𝐞𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐌𝐞𝐧𝐮 ❱ ⚙", callback_data="settings_back_helper")
@@ -237,7 +243,13 @@ async def start_comm(client, message: Message, _):
                 [
                     InlineKeyboardButton(
                         "➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕", url=f"https://t.me/{app.username}?startgroup=true"),
+                ],[
+                    InlineKeyboardButton(
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM"),
                 ],
+[
+InlineKeyboardButton(
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM")],
                 [
                     InlineKeyboardButton(
                         text="⚙ ❰ 𝐎𝐩𝐞𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐌𝐞𝐧𝐮 ❱ ⚙", callback_data="settings_back_helper")
@@ -264,7 +276,13 @@ async def start_comm(client, message: Message, _):
                 [
                     InlineKeyboardButton(
                         "➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕", url=f"https://t.me/{app.username}?startgroup=true"),
+                ],[
+                    InlineKeyboardButton(
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM"),
                 ],
+[
+InlineKeyboardButton(
+                        "𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/FRIENDS_CHATTING_ROOM")],
                 [
                     InlineKeyboardButton(
                         text="⚙ ❰ 𝐎𝐩𝐞𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐌𝐞𝐧𝐮 ❱ ⚙", callback_data="settings_back_helper")
