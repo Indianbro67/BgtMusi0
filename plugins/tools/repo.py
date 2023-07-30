@@ -34,7 +34,7 @@ async def repo(client: Client, message: Message):
                         "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/+SwrSx_VVa2lkYWI1"
                     ),
                     InlineKeyboardButton(
-                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/op_bro_official_group")
+                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/adult_updates")
                 ]
             ]
         ),
