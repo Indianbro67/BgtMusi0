@@ -25,20 +25,20 @@ from modules.utils.database import (add_served_chat,
                                         get_assistant, get_lang, 
                                         get_userss, is_on_off, 
                                         is_served_private_chat) 
- from modules.utils.decorators.language import LanguageStart 
+from modules.utils.decorators.language import LanguageStart 
  from modules.utils.inline import (help_pannel, private_panel, 
                                       start_pannel) 
   
  loop = asyncio.get_running_loop() 
   
   
- @app.on_message( 
+@app.on_message( 
      filters.command(["start"]) 
      & filters.private 
      & ~filters.edited 
      & ~BANNED_USERS 
  ) 
- @LanguageStart 
+@LanguageStart 
  async def start_comm(client, message: Message, _): 
      await add_served_user(message.from_user.id) 
      if len(message.text.split()) > 1: 
