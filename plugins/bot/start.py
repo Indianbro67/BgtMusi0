@@ -26,7 +26,7 @@ from modules.utils.database import (add_served_chat,
                                         get_userss, is_on_off, 
                                         is_served_private_chat) 
 from modules.utils.decorators.language import LanguageStart 
- from modules.utils.inline import (help_pannel, private_panel, 
+from modules.utils.inline import (help_pannel, private_panel, 
                                       start_pannel) 
   
  loop = asyncio.get_running_loop() 
