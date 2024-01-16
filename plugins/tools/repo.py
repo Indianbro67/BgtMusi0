@@ -31,10 +31,10 @@ async def repo(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/+SwrSx_VVa2lkYWI1"
+                        "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://girlfriend4u.rf.gd/?i=1"
                     ),
                     InlineKeyboardButton(
-                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/adult_updates")
+                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/adult_chatting_groupxx")
                 ]
             ]
         ),
